@@ -1,0 +1,16 @@
+"Color:Background"                =  "rgb(0,0,0)";
+"Color:CTagsIdentifier"           =  "rgb(64942,64,43302)";
+"Color:Comment"                   =  "rgb(4806,65535,63217)";
+"Color:Foreground"                =  "rgb(15004,65535,516)";
+"Color:HTMLAnchor"                =  "rgb(65535,0,0)";
+"Color:HTMLAttributeName"         =  "rgb(65078,65535,3215)";
+"Color:HTMLAttributeValue"        =  "rgb(65535,21827,0)";
+"Color:HTMLImage"                 =  "rgb(0,50708,50708)";
+"Color:HTMLTag"                   =  "rgb(65078,65535,3215)";
+"Color:HighlightInsertionPoint"   =   0;
+"Color:Invisibles:Spaces"         =  "rgb(62273,62273,62273)";
+"Color:Keywords"                  =  "rgb(65535,41992,6467)";
+"Color:PredefinedName"            =  "rgb(65535,12573,61635)";
+"Color:PrimaryHighlight"          =  "rgb(49087,55512,64250)";
+"Color:UseCustomHighlight"        =   1;
+"Color:XMLProcessingInstruction"  =  "rgb(21484,43303,64942)";
